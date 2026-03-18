@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "269433776834",
+    "project_id": "trade-hub-app",
+    "storage_bucket": "trade-hub-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269433776834:android:1be7c6e7e95e6bd65f695b",
+        "android_client_info": {
+          "package_name": "com.example.trade_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269433776834-vmeh6qc4h1ngdr4594nro1nq69t0p9v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFyf1dto3xgbEOE6OW7WMxuNlo5BTVOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269433776834-vmeh6qc4h1ngdr4594nro1nq69t0p9v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269433776834:android:c2c8408e95779ac55f695b",
+        "android_client_info": {
+          "package_name": "com.example.trade_hub_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269433776834-f20jr2afilu7gb33q9vl1v8uggp2lh09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trade_hub_app",
+            "certificate_hash": "ceed1162fd6f732f5f6da87474da9d9f5b930806"
+          }
+        },
+        {
+          "client_id": "269433776834-vmeh6qc4h1ngdr4594nro1nq69t0p9v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFyf1dto3xgbEOE6OW7WMxuNlo5BTVOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269433776834-vmeh6qc4h1ngdr4594nro1nq69t0p9v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

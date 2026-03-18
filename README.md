@@ -163,15 +163,7 @@ flutter run
 
 ---
 
-## 🎓 Academic Context
 
-> **Graduation Project** — Sadat Academy for Management Sciences, Faculty of Computers and Information
->
-> **Supervisor:** Dr. Heba Sabry
->
-> **Team:** Ahmed Waleed Ahmed · Ali Hamed · Anas Ashraf Hassan · Mariam Mostafa Kamel
-
----
 
 ## 🔮 Future Roadmap
 
